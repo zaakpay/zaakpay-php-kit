@@ -9,9 +9,9 @@ This is a ReadMe for the Zaakpay PHP kit.
 Zaakpay API is made up of 3 different APIs, which are described below.
 
 
-TRANSACT API : This is the primary API used to perform a transaction.
+<b>TRANSACT API :</b> This is the primary API used to perform a transaction.
 It makes use of the following files.
-test_merchant_input.html : This is the HTML file which takes input from user & posts data.
+<b>test_merchant_input.html</b> : This is the HTML file which takes input from user & posts data.
 
 <b>posttozaakpay.php</b> : This is the file which accepts input, sanitizes it & posts it to the TRANSACT API.
 
